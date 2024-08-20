@@ -29,3 +29,4 @@ To compile the program, open a terminal and run:
 
 ```sh
 gcc -o file_manager file_manager.c
+./file_manager <directory_path> .
